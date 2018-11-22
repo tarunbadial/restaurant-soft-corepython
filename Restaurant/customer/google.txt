@@ -1,0 +1,15 @@
+
+
+Customer Serial No : 7
+Customer Name : google
+Customer Address : noida
+Customer Mobile No : 96468261313
+Customer Table No : 8
+Customer Entry Time : Wed Sep 26 07:13:09 2018
+..........................................
+Corn Pakoda..................RS180
+Macchi Amritsari Tikka.......Rs.150
+Chilli Milli Kebab...........Rs.400
+Gosht Kadai Masala………………………………RS350
+Taaze Phal Ka Ras..............RS80
+Total .........................1160

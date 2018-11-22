@@ -1,0 +1,12 @@
+
+
+Customer Serial No : 5
+Customer Name : badial
+Customer Address : noida
+Customer Mobile No : 9646927127
+Customer Table No : 2
+Customer Entry Time : Wed Sep 26 04:34:26 2018
+..........................................
+Phaldari chaat................RS150
+Masaledar Chhas................RS50
+Total .........................200
