@@ -11,7 +11,7 @@ In this project my aim to create a restaurant invoice system whose provide by th
         ◦ Write command in cmd  pip install pymysql for link between mysql and python.
 ## How to run:
     1. Open cmd on location where you are save/download project and write the command python login_page.py ->press enter like:
-     ![sc1](https://github.com/tarunbadial/restaurant-soft-corepython/blob/master/restaurant/images/Screenshot_2.png)
+     ![sc1](restaurant/images/Screenshot_2.png)
     2. After some time the following window is appear:
        ![sc2](https://github.com/tarunbadial/restaurant-soft-corepython/blob/master/restaurant-soft-corepython/restaurant/images/login.png)
     3. Enter user root and password is root which you are enter unter the db restaurant and  in the mysql table like login:
