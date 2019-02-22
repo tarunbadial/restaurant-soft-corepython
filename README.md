@@ -1,18 +1,27 @@
 # Restaurant Invoice System
+
 In this project my aim to create a restaurant invoice system whose provide by the restaurant to the customer.
 
 ## Technology & Concept:
+
 In this I am using the Tkinter library for the designing all windows. Mysql is used for database storing the username and password. File handling used for saving the invoice soft copy in text form. You can see on the directory customer in the project and regular expressions are used for creating the total of the all items in the invoice. 
 
 ## System Requirements:
+
 • Python 3.7 [download](https://www.python.org/downloads/)
+
 • Tkinter library for GUI download steps:
-    ◦ Open cmd
-    ◦ Write command pip install tkinter
+    
+   ◦ Open cmd(window) or terminal(ubuntu/linux)
+   
+   ◦ Write command pip install tkinter(in window) or sudo apt-get install python3.6-tk (in ubuntu)
+
 • Mysql : If need in your system you can be download and install on [link](https://www.mysql.com/downloads/)
-    ◦ Write command in cmd  pip install mysql for link between mysql and python.
+    
+	◦ Write command in cmd  pip install mysql for link between mysql and python.
 
 ## How to run:
+
 * Open cmd on location where you are save/download project and write the command python login_page.py ->press enter like:
 
 ![cmd](/restaurant/images/pyfileopen.png)
@@ -28,7 +37,7 @@ In this I am using the Tkinter library for the designing all windows. Mysql is u
 
     ![change database](restaurant/images/changedatabase.png)
     
-    * Enter the user whose want to login in yours software like following users:        
+    * Enter the user whose want to login in yours software like following users:
 
     ![table data show](restaurant/images/tablesdatashow.png)
 
